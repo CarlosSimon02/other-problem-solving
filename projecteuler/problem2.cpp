@@ -19,5 +19,5 @@ int main()
         currentTerm = prev1Term + prev2Term;
     }
 
-    std::cout << sum << std::endl;
+    std::cout << currentTerm << std::endl;
 }
